@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @dreadnought2099
-- 👀 I’m interested in ... films
-- 🌱 I’m currently learning ... anything
-- 💞️ I’m looking to collaborate on ... aliens
-- 📫 How to reach me ...
-- 😄 Pronouns: ... he/he
-- ⚡ Fun fact: ...
+[![trophy](https://github-profile-trophy.vercel.app/?username=dreadnought2099&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
 dreadnought2099/dreadnought2099 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
